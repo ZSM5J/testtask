@@ -1,6 +1,6 @@
 # testtask
 
-cd server
+cd server <br/>
 node server.js
 
 #
