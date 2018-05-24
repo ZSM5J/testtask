@@ -1,0 +1,24 @@
+input {
+    width: 200px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  
+  
+  button {
+    width: 200px;
+    padding: 12px 30px;
+    margin-top: 10px;
+  }
+
+  .message {
+    color: red;
+  }
+
+  .message2 {
+    color: black;
+  }
+  
