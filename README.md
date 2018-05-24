@@ -4,5 +4,5 @@ cd server <br/>
 node server.js
 
 #
-cd client
+cd client <br/>
 npm start
